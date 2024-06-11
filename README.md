@@ -34,8 +34,28 @@
 </head>
 <body>
     <div class="container">
-        <h1>Witaj na mojej jasnofioletowej stronie!</h1>
-        <p>To jest przykładowa strona internetowa z jasnofioletowym tłem.</p>
+        <h1>QuizFlash</h1>
+        <p>Aplikacja ma na celu umożliwienie użytkownikom uczenia się stworzonych przez siebie zestawów fiszek na dowolny temat. Użytkownik może założyć konto i zalogować się do niego za pomocą adresu email i hasła. 
+
+Podstawowymi elementami aplikacji jest:
+
+Tworzenie folderów zestawów fiszek,
+
+Tworzenie zstawów fiszek,
+
+Dodawanie fiszek
+
+Chcąc rozwinąć apliakcję chcemy wprowadzić nowe opcje nauki jak testy i gry. Będą to między innymi:
+
+Testy abcd - na podstawie wybranego zestawu fiszek będą tworzone testy jednokrotnego wyboru
+
+Test krótkich pytań otwartych - wpisanie definicji odpowiadającej zagadnieniu lub na odwrót, uzupełnienie luki w definicji
+
+Gra w dopasowanie - dopasowywanie pojęć do definicji
+
+Każdy z zestawów może zostać udostępniony za pomocą dodania do zestawu innego użytkownika lub też poprzez link. </p>
+
+<p>Kontakt: +48 111 222 333</p>
     </div>
 </body>
 </html>
