@@ -35,7 +35,7 @@
 <body>
     <div class="container">
         <h1>QuizFlash</h1>
-        <p>Aplikacja ma na celu umożliwienie użytkownikom uczenia się stworzonych przez siebie zestawów fiszek na dowolny temat. Użytkownik może założyć konto i zalogować się do niego za pomocą adresu email i hasła. 
+        <p>Aplikacja ma na celu umożliwienie użytkownikom uczenia się stworzonych przez siebie zestawów fiszek na dowolny temat. Użytkownik może założyć konto i zalogować się do niego za pomocą adresu email i hasła : 
 
 Podstawowymi elementami aplikacji jest:
 
