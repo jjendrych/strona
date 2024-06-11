@@ -1,7 +1,7 @@
 # _config.yml
-title: My Jekyll Site
+title: FlashQuiz
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my Jekyll site.
+  Aplikacja do tworzenia tematycznych zestawów fiszek
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yourusername.github.io" # the base hostname & protocol for your site
 
